@@ -26,3 +26,6 @@ Thumbs.db
 
 # Large datasets
 data/*.csv
+
+# Home Credit dataset
+Home_Credit_Dashboard/data/*.csv
